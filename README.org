@@ -1,0 +1,2 @@
+* snippy
+A tool to insert snippets of text.
